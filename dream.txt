@@ -1,0 +1,9 @@
+Menguasai berbagai macam bahasa pemrograman dan framework
+-Javascript
+-node.js
+-express.js
+-react.js
+-react native
+-mongodb
+-linux
+-laravel v8 & v9
