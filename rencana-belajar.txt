@@ -3,5 +3,6 @@ Rencana belajar untuk kedepannya
 -terbiasa bekerja dengan git dan github
   *branch
   *merge
+  *fork
 -memahami dasar-dasar javascript
 -belajar node.js dasar
