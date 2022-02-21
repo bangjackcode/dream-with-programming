@@ -1,5 +1,7 @@
 Rencana belajar untuk kedepannya
 -memahami penggunaan restful api
 -terbiasa bekerja dengan git dan github
+  *branch
+  *merge
 -memahami dasar-dasar javascript
 -belajar node.js dasar
